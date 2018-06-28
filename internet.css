@@ -1,0 +1,239 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#container{
+	background-color: linear-gradient(#e7e7e7,white);
+	margin: auto;
+	font-family: Helvetica, Arial, sans-serif;
+	min-height: 500px;
+}
+#header {
+	display: block;
+	min-height: 80px;
+	margin: auto;
+	background-color: white;
+
+}
+#header img{
+	display: inline-block;
+	position: absolute;
+	width: 92px;
+}
+#header p.toptitle {
+display: inline-block;
+font-size: 40px;
+margin: 10px 10px 10px 90px;
+color: #4A4A4A;
+}
+
+#header p.toptitle span{
+	color: #22649E;
+}
+#header p.bottomtitle{
+	display: block;
+	font-size: 28px;
+	margin: 9px;
+	padding: 8px 23px;
+	background: linear-gradient(#25679E, #739ABD, #25679E);
+	color: white;
+}
+.body{
+	height: 608px;
+	width: 269px;
+	display: inline-block;
+}
+.phone{
+	width: 900px;
+	height: 589px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.phoneheader{
+	width: 888px;
+	height: 82px;
+	border-style: none none solid none;
+	border-width: 2px;
+	border-color: grey;
+}
+.phone img{
+	width: 29px;
+	height: 29px;
+	display: inline-block;
+	vertical-align: top;
+}
+.phone h3{
+	display: inline-block;
+	color: #23699C;
+	font-weight: lighter;
+	vertical-align: top;
+	margin-top: 6px;
+
+}
+h1{
+	display: inline-block;
+	color: #00BFDC;
+}
+.phoneright{
+display: inline-block;
+vertical-align: right;
+}
+.phoneright h1{
+	font-size: 25px;
+	font-weight: bold;
+	color: #00BFDC;
+	margin-left: 580px;
+
+}
+.phoneright p{
+	font-size: 11px;
+}
+
+
+#navigation{
+	width: 223px;
+	height: 200px;
+	border-style: none none solid none;
+	border-width: 2px;
+	border-color: grey;
+	padding: 10px;
+}
+#navigation p.question span{
+	color: red;
+
+}
+#navigation p.question{
+	line-height: 53px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#navigation p.para{
+	font-weight: bold;
+}
+#navigation p.para span{
+	color: #23699C;
+	}
+#navigation button{
+	display: block;
+	border-radius: 10px;
+	height: 37px;
+	width: 200px;
+	font-size: 15px;
+	color: white;
+	margin-left: 23px;
+	box-shadow: grey 4px 4px 4px;
+	margin-top: 5px;
+}
+
+#navigation button.b{
+	background-color: #3174A5;
+	margin-top: 5px;
+	box-shadow: grey 5px;
+}
+#navigation button.b2{
+	background-color: #F5771B;
+	box-shadow: grey 5px;
+}
+.ad {
+	height: 336px;
+	width: 223px;
+	margin-top: 35px;
+	background-image: url(ad_background.png);
+	color: white;
+	font-size: 26px;
+	text-align: center;
+	padding: 10px;
+}
+.ad img{
+	width: 111px;
+	height: 170px;
+	display: block;
+	margin-left: 46px;
+}
+.ad button{
+	display: block;
+	margin-left: 27px;
+	background: linear-gradient(white, #00C8DD, white);
+	color: white;
+	font-family: arial;
+	border-radius: 10px;
+	width: 157px;
+	height: 36px;
+	margin-top: 23px;
+	font-size: 16px;
+}
+.phonebody h3{
+	font-size: 22px;
+	font-weight: bold;
+}
+.phonebody p{
+	line-height: 28px;
+}
+.phonebody span{
+	color: #00BFDC;
+	font-weight: bold;
+}
+span.bold{
+	font-weight: bold;
+	color: black;
+}
+.phonebody ul{
+	margin-left: 50px;
+	line-height: 19px;
+	margin-top: 10px;
+}
+.phonebody li{
+	margin-top: 10px;
+}
+.phonebody img{
+	width: 420px;
+	height: 147px;
+	margin-left: 238px;
+	margin-top: 21px;
+}
+.phonebody ol{
+	margin-left: 50px;
+    line-height: 19px;
+    margin-top: 10px
+}
+.footer{
+	border: solid #0086DA 5px;
+	height: 130px;
+	width: 895px;
+	margin-top: 10px;
+	border-bottom-style: none;
+}
+.footer img{
+	height: 122px;
+	width: 136px;
+	display: inline-block;
+}
+.footerbox{
+	display: inline-block;
+	height: 117px;
+	width: 731px;
+	margin-left: 15px;
+}
+.footer h3{
+	font-weight: bold;
+}
+.footer p{
+	margin-top: 9px;
+}
+
+
+.italic{
+	font-style: italic;
+}
+.blue{
+	color: #00BFDC;
+}
+
+
+
+
+
+
+
+
